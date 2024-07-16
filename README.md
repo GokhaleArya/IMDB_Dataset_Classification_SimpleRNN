@@ -1,4 +1,7 @@
 # Movie Review Sentiment Analysis with Simple RNN
+
+APP LINK (STREAMLIT) : https://imdbdataset-classification-simplernn.streamlit.app/
+
 This project demonstrates the use of a Simple Recurrent Neural Network (SimpleRNN) to classify movie reviews as positive or negative. The classification is based on a threshold of 0.5, where a score above 0.5 indicates a positive review, and a score below 0.5 indicates a negative review.
 
 ### Project Overview
